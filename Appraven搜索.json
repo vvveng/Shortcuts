@@ -1,0 +1,19 @@
+{
+    "version":"1.0",
+    "ver_update":"1",
+    "newurl":"",
+    "new":"暂无更新内容",
+    "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc",
+    "apiurl":"https://smms.app/api/v2/upload",
+    "token":"8337effca0ddfcd9c5899f3509b23657",
+    "token1":"747abda62178bc7dc9dd57fef8c4b6e7",
+    "apiurl1":"http://img.ess.ink+16054/api/index.php",
+    "apiurl2":"https://imgtp.com/api/upload",
+    "delete":"https://imgtp.com/api/delete",
+    "sharecuts_url":"https://sharecuts.cn/shortcut/12628",
+    "jiejingku_url":"null",
+    "tips":{
+        "image_repeated":"你所上传的图片可能已经上传过了，请勿重复上传\n图片URL地址为：\n images",
+        "invalid_size":"你所上传的图片太大了，图片上传限制为5MB及以下",
+    }
+}
